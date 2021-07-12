@@ -1,5 +1,6 @@
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5rem;
 }
 
 #emailIcon {
@@ -28,4 +29,8 @@ body {
 
 .card-body p {
     font-size: 1.5rem;
+}
+
+.paddedSection {
+    margin-left: 2.5rem;
 }

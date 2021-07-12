@@ -34,3 +34,7 @@ body {
 .paddedSection {
     margin-left: 2.5rem;
 }
+
+.card-header {
+    font-size: 2.5rem;
+}

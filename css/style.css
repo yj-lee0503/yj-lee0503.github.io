@@ -38,3 +38,13 @@ body {
 .card-header {
     font-size: 2.5rem;
 }
+
+.badge {
+    margin-right: 5px;
+}
+
+@media (max-width: 1200px) {
+    .badge {
+        margin-top: 1.25rem;
+    }
+}

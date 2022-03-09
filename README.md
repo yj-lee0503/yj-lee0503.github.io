@@ -1,4 +1,7 @@
-# YongJin's Personal Website
+# YongJin's Personal Website 
+
+## Domain:
+https://yongjinlee.com
 
 ## Resources used:
 - [GitHub Pages](https://pages.github.com)
